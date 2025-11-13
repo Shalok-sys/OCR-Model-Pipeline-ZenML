@@ -1,0 +1,10 @@
+ OCR Pipeline Results
+==================================================
+
+ Image: IMG20250904220521_jpg.rf.d8b0a123cf3e8b1ac05a08a29591ae19.jpg
+  [NAME_OF_PROCESSORS] (0.522): U Morgial SMith
+  [NAME_OF_PROCESSORS] (0.498): cvral kcpopee
+--------------------------------------------------
+ Image: IMG20250904220523_jpg.rf.49d8925ac3ed493cd5093447d7b4658d.jpg
+  [DATA] (0.576):  7260 Y 42 Lhx 12.4 9 & MUST BE AREAS T F 60 IN M I 6 g 67 20 N 8 on 17 YY N Blue MOULT FILLED 72 15230_ 1.3 2 80 2 Comments 12.8 77 birds 6.4 GirEEn welfare 30 No ISSUES Rel HEkuY Green MoL HEALIHY Birl
+--------------------------------------------------

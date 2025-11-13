@@ -1,0 +1,36 @@
+{
+  "IMG20250904220521_jpg.rf.d8b0a123cf3e8b1ac05a08a29591ae19.jpg": [
+    {
+      "bbox": [
+        1784,
+        482,
+        1974,
+        714
+      ],
+      "class": "NAME_OF_PROCESSORS",
+      "confidence": 0.522
+    },
+    {
+      "bbox": [
+        1618,
+        482,
+        1804,
+        713
+      ],
+      "class": "NAME_OF_PROCESSORS",
+      "confidence": 0.498
+    }
+  ],
+  "IMG20250904220523_jpg.rf.49d8925ac3ed493cd5093447d7b4658d.jpg": [
+    {
+      "bbox": [
+        677,
+        809,
+        3918,
+        1264
+      ],
+      "class": "DATA",
+      "confidence": 0.576
+    }
+  ]
+}
