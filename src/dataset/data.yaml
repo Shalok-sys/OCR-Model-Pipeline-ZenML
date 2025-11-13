@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 13
+names: ['BANDED_BY', 'DATA', 'DATE', 'LOCOCODE', 'LOCOCODE_NAME', 'METHOD', 'NAME_OF_PROCESSORS', 'ORANGE_FLAG_ADDED', 'SCRIBE', 'SPECIES_NAME', 'SPECIES_NO', 'STATUS', 'TIME_NET_FIRED']
+
+roboflow:
+  workspace: nutrimanager
+  project: birdmark-region-detection-pjxkx
+  version: 2
+  license: MIT
+  url: https://universe.roboflow.com/nutrimanager/birdmark-region-detection-pjxkx/dataset/2
